@@ -8,14 +8,14 @@
 #include <time.h>
 
 // WiFi Credentials
-const char* ssid = "Nipun";
-const char* password = "11111111";
+const char* ssid = "xxxxxxxx";
+const char* password = "xxxxxxxxxx";
 
 // OCR API
 const char* ocrApiUrl = "api.ocr.space";
 const char* serverPath = "/parse/image";
 const int serverPort = 80;
-const char* apiKey = "K86835142088957";
+const char* apiKey = "xxxxxxxxxxxxx";
 
 // LCD Display
 LiquidCrystal_I2C lcd(0x27, 16, 2); // Change address if needed
